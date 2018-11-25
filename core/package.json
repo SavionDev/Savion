@@ -1,0 +1,29 @@
+{
+  "name": "src",
+  "version": "0.0.0",
+  "description": "Savion Distrubtued Game Engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavionDev/Savion.git"
+  },
+  "keywords": [
+    "Savion",
+    "Distrubtued",
+    "Game",
+    "Engine"
+  ],
+  "author": "Devon Givens https://twitter.com/devon_givens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavionDev/Savion/issues"
+  },
+  "homepage": "https://github.com/SavionDev/Savion#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
